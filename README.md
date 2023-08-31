@@ -1,4 +1,4 @@
-WebScrapeSummarizer 🌐✍️
+# WebScrapeSummarizer 🌐✍️
 
 ### Project Overview 📑
 
@@ -35,7 +35,7 @@ WebScrapeSummarizer 🌐✍️
    
    Navigate to the project directory:
    
-```cd WebScrapeSummarizer ```
+  ```cd WebScrapeSummarizer ```
 
 - Set up your OpenAI API credentials in `libs/openai.php`.
 - Host the tool on a server with PHP support.
