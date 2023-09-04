@@ -69,7 +69,7 @@
     - Click on "Process".
     - Download the generated CSV file with the summarized content.
 
-### Setup and Installation Instructions 🛠️
+    Setup and Installation Instructions 🛠️
 
    ```git clone https://github.com/YOUR_GITHUB_USERNAME/WebScrapeSummarizer.git ```
    
