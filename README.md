@@ -36,7 +36,6 @@
      - [Future Enhancements (To-Do)](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#-future-enhancements-to-do)
 4. [Usage Examples](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#usage-examples-)
     - [Summarize Web Content](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#usage-examples-)
-    - [Setup and Installation Instructions](https://github.com/YOUR_GITHUB_USERNAME/WebScrapeSummarizer.git-)
 6. [Troubleshooting Tips](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#troubleshooting-tips-)
 7. [Contribution Guidelines](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#contribution-guidelines-)
 
