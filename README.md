@@ -28,6 +28,25 @@
   <strong>For discussion, queries, and freelance work. Do reach me.👆👆👆</strong>
 </div>
 
+### Table of Contents
+
+1. [Project Overview](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#project-overview-)
+    - [WebScrapeSummarizer Description](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#project-overview-)
+2. [Features](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#features-)
+    - [Domain Input](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#features-)
+    - [Web Scraping](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#features-)
+    - [OpenAI Integration](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#features-)
+    - [CSV Output](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#features-)
+3. [Future Enhancements (To-Do)](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#-future-enhancements-to-do)
+4. [Usage Examples](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#usage-examples-)
+    - [Summarize Web Content](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#usage-examples-)
+5. [Setup and Installation Instructions](https://github.com/YOUR_GITHUB_USERNAME/WebScrapeSummarizer.git)
+6. [Troubleshooting Tips](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#troubleshooting-tips-)
+    - [API Errors](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#troubleshooting-tips-)
+    - [Domain Input Errors](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#troubleshooting-tips-)
+    - [CSV Output Errors](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#troubleshooting-tips-)
+7. [Contribution Guidelines](https://github.com/Zeeshanahmad4/WebScrapeSummarizer#contribution-guidelines-)
+
 
 ### Project Overview 📑
 
